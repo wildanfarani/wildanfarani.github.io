@@ -1,0 +1,3961 @@
+{
+    "satker": [
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA JAKARTA VI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA JAKARTA VII"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KHUSUS PENERIMAAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KHUSUS INVESTASI"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAKARTA SELATAN II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KEBAYORAN BARU EMPAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA SETIABUDI EMPAT"
+        },
+        {
+            "nama": "KPP PRATAMA JAKARTA PESANGGRAHAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MAGELANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC JEMBER"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BEKASI BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PONDOK GEDE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA DEPOK SAWANGAN"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAWA BARAT III"
+        },
+        {
+            "nama": "KANTOR PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN JAMBI"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC SUMATERA BAGIAN BARAT"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA YOGYAKARTA"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA SURABAYA"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA MEDAN"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA PALEMBANG"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA JAYAPURA"
+        },
+        {
+            "nama": "INSPEKTORAT JENDERAL"
+        },
+        {
+            "nama": "KANTOR PUSAT DIREKTORAT JENDERAL PAJAK"
+        },
+        {
+            "nama": "SEKRETARIAT PENGADILAN PAJAK"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP KALIMANTAN TIMUR"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAKARTA PUSAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR TIGA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BADAN DAN ORANG ASING"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SAMARINDA ULU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANJARMASIN SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PONTIANAK TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAMBI PELAYANGAN "
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SERANG TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BALIKPAPAN BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA JAGAKARSA"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP KEPULAUAN RIAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA BOGOR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG JAKARTA V"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAWA BARAT I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BOGOR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CIREBON SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SUKABUMI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KARAWANG UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TASIKMALAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG CIREBON"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SERANG BARAT "
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAWA TENGAH I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SEMARANG TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KUDUS"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TEGAL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PEKALONGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MAGELANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PURWOKERTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SURAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA YOGYAKARTA"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAWA TIMUR I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA KREMBANGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA GUBENG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MOJOKERTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BOJONEGORO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MADIUN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KEDIRI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MALANG SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JEMBER"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANDA ACEH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BATAM"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP SUMATERA UTARA I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MEDAN BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PEMATANG SIANTAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PEMATANGSIANTAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PADANG SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SERANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PEKANBARU SENAPELAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BUKITTINGGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TANJUNG PINANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAMBI TELANAIPURA"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP SUMATERA SELATAN DAN KEPULAUAN BANGKA BELITUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PANGKAL PINANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PANGKALPINANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TANJUNG KARANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PONTIANAK BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PALANGKARAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SAMPIT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANJARMASIN UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MANADO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA GORONTALO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SAMARINDA ILIR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BALIKPAPAN TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TARAKAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PALU"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP SULAWESI SELATAN BARAT DAN TENGGARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MAKASSAR UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PALOPO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA AMBON"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA DENPASAR BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MATARAM BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KUPANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC NANGA BADAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PADANG DUA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MOROWALI"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC SULAWESI BAGIAN UTARA"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC KALIMANTAN BAGIAN SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PONDOK AREN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CIKUPA"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI PAPUA BARAT"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC KHUSUS PAPUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BATAM SELATAN"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI SULAWESI BARAT"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI KEPULAUAN RIAU"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KOTABARU"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BALIKPAPAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SAMARINDA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TARAKAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC NUNUKAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BITUNG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MANADO"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC GORONTALO"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PARE PARE"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MALILI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KENDARI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC POMALAA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC AMBON"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TERNATE"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC NGURAH RAI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MATARAM"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SUMBAWA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KUPANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MAUMERE"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC WAINGAPU"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC JAYAPURA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SORONG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BIAK"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MANOKWARI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC FAK FAK"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC AMAMAPARE"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BENGKULU"
+        },
+        {
+            "nama": "PERWAKILAN DITJEN BEA DAN CUKAI MALAYSIA"
+        },
+        {
+            "nama": "PERWAKILAN DITJEN BEA DAN CUKAI HONGKONG"
+        },
+        {
+            "nama": "PERWAKILAN DITJEN BEA DAN CUKAI SINGAPURA"
+        },
+        {
+            "nama": "PERWAKILAN DITJEN BEA DAN CUKAI ABU DHABI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KUALA TANJUNG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MERAUKE"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SINTETE"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC ENTIKONG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BEA DAN CUKAI BONTANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PANTOLOAN"
+        },
+        {
+            "nama": "KANTOR WILAYAH VII DJBC JAKARTA I"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC JAKARTA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TANJUNG MAS"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TANJUNG PERAK"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KUALA LANGSA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BELAWAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TANJUNG BALAI KARIMUN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KUALA ENOK"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SAMBU BELAKANG PADANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BAGAN SIAPI API"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PALEMBANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PONTIANAK"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC KALIMANTAN BAGIAN TIMUR"
+        },
+        {
+            "nama": "PANGKALAN SARANA OPERASI DJBC TANJUNG BALAI KARIMUN"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC SULAWESI BAGIAN SELATAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MAKASSAR"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TULUNG AGUNG"
+        },
+        {
+            "nama": "DIREKTORAT JENDERAL LEMBAGA KEUANGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG TEGAL"
+        },
+        {
+            "nama": "KANTOR PUSAT DJKN"
+        },
+        {
+            "nama": "KANWIL  DJKN SUMATERA UTARA"
+        },
+        {
+            "nama": "KANWIL DJKN JAWA BARAT"
+        },
+        {
+            "nama": "KANWIL DJKN JAWA TENGAH DAN DI YOGYAKARTA"
+        },
+        {
+            "nama": "KANWIL DJKN JAWA TIMUR"
+        },
+        {
+            "nama": "KANWIL DJKN SULAWESI SELATAN TENGGARA DAN BARAT"
+        },
+        {
+            "nama": "KANWIL DJKN DKI JAKARTA"
+        },
+        {
+            "nama": "BADAN PENDIDIKAN DAN PELATIHAN KEUANGAN"
+        },
+        {
+            "nama": "BALAI PENDIDIKAN DAN PELATIHAN KEPEMIMPINAN"
+        },
+        {
+            "nama": "BADAN KEBIJAKAN FISKAL"
+        },
+        {
+            "nama": "BADAN PENGAWAS PASAR MODAL DAN LEMBAGA KEUANGAN"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC JAWA TENGAH DAN DAERAH ISTIMEWA YOGYAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN MALINAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN TANJUNG SELOR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MAMUJU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PANDEGLANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN NUNUKAN"
+        },
+        {
+            "nama": "KPKNLSukabumi"
+        },
+        {
+            "nama": "KPKNL Kudus"
+        },
+        {
+            "nama": "KPKNL Kediri"
+        },
+        {
+            "nama": "SEKRETARIAT JENDERAL"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA BANDUNG"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA SEMARANG"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA DENPASAR"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA SORONG"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA MAKASSAR"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA BANDA ACEH"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA BALIKPAPAN"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA BIAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAYAPURA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SORONG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BENGKULU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KEBON JERUK DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN SERANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PANDEGLANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MAJALAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN TASIKMALAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN SUKABUMI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN CIREBON"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KUNINGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN PURWAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BEKASI SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA GARUT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN TEGAL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN PEKALONGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SEMARANG TENGAH DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SEMARANG GAYAMSARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PURWOREJO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BLORA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KARANGANYAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KLATEN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA NGAWI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PARE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN TULUNGAGUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SIDOARJO SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN BOJONEGORO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN JEMBER"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANGKALAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MALANG UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KRAKSAAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SITUBONDO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN BANYUWANGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN BANDA ACEH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA LANGSA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TAPAKTUAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN KUALUH HULU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN SIBUHUAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TUA PEJAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PAYAKUMBUH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANGKINANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BINTAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN RENGAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KAYU AGUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANGKA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA NATAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAKPRATAMA MEMPAWAH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MUARA TEWEH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TANJUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BARABAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TENGGARONG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PENAJAM"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TANJUNG REDEB"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BITUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN GORONTALO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BANGGAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MAKASSAR BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN ENREKANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA WATAMPONE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KOLAKA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BAU BAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN AMBON"
+        },
+        {
+            "nama": "BADAN PENGELOLA DANA PERKEBUNAN KELAPA SAWIT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TOBELO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TABANAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MATARAM TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN RABA BIMA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA ATAMBUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA RUTENG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN JAYAPURA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PENANAMAN MODAL ASING SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SUMEDANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN YOGYAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN SURABAYA SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN MEDAN SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KEDATON"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BADUNG SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KISARAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TERNATE"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAKARTA KHUSUS"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP SULAWESI UTARA TENGAH GORONTALO DAN MALUKU UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BALIGE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN PURWOKERTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN MADIUN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN PALU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN SORONG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BIAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA DUREN SAWIT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA SETIABUDI TIGA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA  CIAWI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN MAGELANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN MOJOKERTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA LAHAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TEMANGGUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA GRESIK SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KASONGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN RIMBO BUJANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA ARGAMAKMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SEMARANG BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BIREUN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANGKO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PRABUMULIH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KOTABUMI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TANGERANG TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK  PRATAMA JEPARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PURBALINGGA"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAKARTA BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CIMAHI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CIANJUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PURWAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK  PRATAMA PATI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KEBUMEN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SUKOHARJO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PROBOLINGGO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANYUWANGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK  PRATAMA  LHOKSEUMAWE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TEBING TINGGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA RANTAU PRAPAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA DUMAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA RENGAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BATURAJA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TANJUNG PANDAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SINGKAWANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PAREPARE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA SUKOMANUNGGAL"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP RIAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PASURUAN"
+        },
+        {
+            "nama": "KANTOR PUSAT DIREKTORAT JENDERAL BEA DAN CUKAI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TANJUNG PRIOK I"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TANJUNG PRIOK II"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC HALIM PERDANA KUSUMA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KANTOR POS PASAR BARU"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC CIREBON"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BANDUNG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MERAK"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BOGOR"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TASIKMALAYA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC CILACAP"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KUDUS"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TEGAL"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MAGELANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SURAKARTA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PEKALONGAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC YOGYAKARTA"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC JAWA TIMUR I"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC JUANDA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PANARUKAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC GRESIK"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KEDIRI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MADIUN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MALANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BLITAR"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PROBOLINGGO"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BOJONEGORO"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC LHOK SEUMAWE"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MEULABOH"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC SUMATERA UTARA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MEDAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PEMATANG SIANTAR"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TELUK NIBUNG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SIBOLGA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PANGKALAN SUSU"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TELUK BAYUR"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC KEPULAUAN RIAU"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BATAM"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC DUMAI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PEKANBARU"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TANJUNG PINANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC RENGAT"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC DABO SINGKEP"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SIAK SRI INDRAPURA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TANJUNG UBAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SELAT PANJANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KIJANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BENGKALIS"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC JAMBI"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC SUMATERA BAGIAN TIMUR"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TANJUNG PANDAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BANDAR LAMPUNG"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC KALIMANTAN BAGIAN BARAT"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KETAPANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TELUK AIR"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SAMPIT"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PANGKALAN BUN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PULANG PISAU"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BANJARMASIN"
+        },
+        {
+            "nama": "BADAN PENGELOLA DANA LINGKUNGAN HIDUP (BPDLH)"
+        },
+        {
+            "nama": "KOMITE STANDAR AKUNTASI PEMERINTAH KSAP"
+        },
+        {
+            "nama": "SISTEM PERBENDAHARAAN DAN ANGGARAN NEGARA"
+        },
+        {
+            "nama": "SATKER SEMENTARA PROGRAM PERCEPATAN AKUNTABILITAS"
+        },
+        {
+            "nama": "PUSAT INVESTASI PEMERINTAH"
+        },
+        {
+            "nama": "PUSAT ANALISIS DAN HARMONISASI KEBIJAKAN"
+        },
+        {
+            "nama": "SEKOLAH TINGGI AKUNTANSI NEGARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA BATAM"
+        },
+        {
+            "nama": "Politeknik Keuangan Negara STAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SUKAMARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN RANAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN DABO SINGKEP"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MUARA TEBO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KOTOBARU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MUARO SIJUNJUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SIMPANG AMPAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SUKADANA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PRINGSEWU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN LIWA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BARADATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SINJAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN WATANSOPPENG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PINRANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SIDRAP"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN POLEWALI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PASANGKAYU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN UNAAHA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA WATES"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SINJAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BITUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SOASIO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MARISA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA JEMBER"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI ACEH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BANDA ACEH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MEULABOH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA LANGSA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TAPAK TUAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA LHOK SEUMAWE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KUTACANE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TAKENGON"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI SUMATERA UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MEDAN I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PEMATANG SIANTAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PADANG SIDEMPUAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA GUNUNG SITOLI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TANJUNG BALAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA RANTAU PRAPAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SIBOLGA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SIDIKALANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TEBING TINGGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BALIGE"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI SUMATERA BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PADANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BUKITTINGGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SIJUNJUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SOLOK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA LUBUK SIKAPING"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PEKANBARU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TANJUNG PINANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA RENGAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA DUMAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA JAMBI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SUNGAI PENUH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MUARA BUNGO"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI SUMATERA SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PALEMBANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PANGKAL PINANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA LUBUK LINGGAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BATURAJA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TANJUNG PANDAN"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI LAMPUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BANDAR LAMPUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KOTABUMI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA METRO LAMPUNG"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI KALIMANTAN BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PONTIANAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SINTANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KETAPANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SINGKAWANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PUTUSSIBAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PALANGKARAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BUNTOK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PANGKALAN BUN"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI KALIMANTAN SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BANJARMASIN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KOTABARU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BARABAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SAMARINDA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TARAKAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BALIKPAPAN"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI SULAWESI UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MANADO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA GORONTALO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TAHUNA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PALU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA LUWUK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA POSO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TOLI TOLI"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI SULAWESI SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MAKASAR I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PARE PARE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BANTAENG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PALOPO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MAJENE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA WATAMPONE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KENDARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BAU BAU"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI MALUKU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA AMBON"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TERNATE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TUAL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SAUMLAKI"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI BALI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA DENPASAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SINGARAJA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MATARAM"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BIMA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SUMBAWA BESAR"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI NUSA TENGGARA TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KUPANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA ENDE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA WAINGAPU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA RUTENG"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI PAPUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA JAYAPURA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BIAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MANOKWARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SORONG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA FAK FAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MERAUKE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA NABIRE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA WAMENA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BENGKULU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MANNA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA JAKARTA IV"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TANJUNG PRIOK III"
+        },
+        {
+            "nama": "PANGKALAN SARANA OPERASI DJBC TANJUNG PRIOK"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC JAWA BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN UTAMA KPU BC SOEKARNO HATTA"
+        },
+        {
+            "nama": "PANGKALAN SARANA OPERASI DJBC PANTOLOAN"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC MALUKU"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC BALI NTB NTT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG JAKARTA I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BANDUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BANDUNG II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BOGOR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SEMARANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PURWOKERTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG YOGYAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SURABAYA I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MALANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BANDA ACEH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MEDAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PADANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PEKANBARU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SURABAYA II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG JAMBI"
+        },
+        {
+            "nama": "KANWIL DJKN SUMATERA SELATAN JAMBI DAN BANGKA BELITUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PALEMBANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BANDAR LAMPUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG JAKARTA III"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MADIUN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG JAKARTA IV"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SAMARINDA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BANJARMASIN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BALIKPAPAN"
+        },
+        {
+            "nama": "KANWIL DJKN SULAWESI UTARA TENGAH GORONTALO DAN MALUKU UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MANADO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SORONG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PALU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MAKASSAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG GORONTALO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG KENDARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG AMBON"
+        },
+        {
+            "nama": "KANWIL DJKN BALI DAN NUSA TENGGARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG DENPASAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BIMA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MATARAM"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG KUPANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG JAYAPURA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG TERNATE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG JEMBER"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BENGKULU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PAREPARE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BATAM"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SERUI"
+        },
+        {
+            "nama": "KANWIL DJKN BANDA ACEH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG LHOKSEUMAWE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MEULABOH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG   KISARAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PADANGSIDEMPUAN"
+        },
+        {
+            "nama": "KANWIL DJKN RIAU SUMATERA BARAT DAN KEPULAUAN RIAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG RENGAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG  LAHAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BATURAJA"
+        },
+        {
+            "nama": "KANWIL DJKN LAMPUNG DAN BENGKULU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG METRO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG KOTABUMI"
+        },
+        {
+            "nama": "KANWIL DJKN BANTEN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG TANGERANG I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG TANGERANG II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PURWAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SUKABUMI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG KUDUS"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PEKALONGAN"
+        },
+        {
+            "nama": "KANWIL DJKN YOGYAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SLEMAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MAGELANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SIDOARJO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PAMEKASAN"
+        },
+        {
+            "nama": "KANWIL DJKN KALIMANTAN BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SINGKAWANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SINTANG"
+        },
+        {
+            "nama": "KANWIL DJKN KALIMANTAN SELATAN DAN TENGAH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PANGKALAN BUN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BARABAI"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN SUMEDANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PAMEKASAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KUTACANE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BLANG PIDIE"
+        },
+        {
+            "nama": "KANTOR PENYIDIKAN DAN PEMERIKSAAN PAJAK MEDAN DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN BINJAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN GUNUNG SITOLI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN LUBUK SIKAPING"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PADANG PANJANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TEMBILAHAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MUARA BUNGO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN MUARA SABAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN SUNGAI PENUH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PANGKALAN BALAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KALIANDA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SINTANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN NANGA BULIK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KOTABARU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TALAUD"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PALOPO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANTAENG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MAMASA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TUAL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MASOHI"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN SOASIO"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN SUMBAWA BESAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA ENDE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BAJAWA"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN WAINGAPU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN WAIKABUBAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN FAK FAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MANOKWARI"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN MERAUKE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN WAMENA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN NABIRE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SERUI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN MANNA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KEPAHIANG"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN JATIBARANG"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN JEPARA"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN PEMALANG"
+        },
+        {
+            "nama": "KANWIL DJKN KALIMANTAN TIMUR DAN UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG TARAKAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BONTANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG LUWUK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MAMUJU"
+        },
+        {
+            "nama": "KANWIL DJKN PAPUA PAPUA BARAT DAN MALUKU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG LANGSA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BINJAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG TARUTUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG TANJUNGPINANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MUARABUNGO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG  DUMAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MANNA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BANTUL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BOJONEGORO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG KEDIRI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SANGGAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG TENGGARONG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BAUBAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MAUMERE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MANOKWARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG TIMIKA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MUARATEWEH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG INDRAMAYU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG MAJALENGKA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SRAGEN"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN BLORA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN WONOGIRI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA WATES"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA WONOSARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TUBAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN PACITAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN WLINGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN BONDOWOSO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN SUMENEP"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN BANGKALAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN PANDAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PAINAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SAWAH LUNTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BATUSANGKAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN BAGAN SIAPI-API"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MUARA ENIM"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KETAPANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PUTUSIBAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN NGABANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KUALA KAPUAS"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PURUK CAHU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PELAIHARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KANDANGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PARINGIN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MARABAHAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN MALINAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN TANJUNG SELOR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN TANAH GROGOT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TONDANO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN AMURANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BUNGKU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN SUNGGUMINASA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN BENTENG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN PANGKAJENE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MAMUJU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN MAKALE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN LASUSUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN RAHA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN NEGARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN AMLAPURA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN UBUD"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN GERUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SELONG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN DOMPU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SOE"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN ATAMBUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KALABAHI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN LARANTUKA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TANGERANG BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MEDAN BELAWAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BUKITTINGGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KENDARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SINGARAJA"
+        },
+        {
+            "nama": "PERWAKILAN DITJEN BEA DAN CUKAI BRUSSELS"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN JAKARTA PUSAT SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA PLUIT"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK JAKARTA SATU"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK JAKARTA DUA"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK JAKARTA TIGA"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK JAKARTA EMPAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CIBINONG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BEKASI UTARA"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK BANDUNG SATU"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK BANDUNG DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TIGARAKSA"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK BOGOR"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK KARAWANG"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK CIREBON"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK  PRATAMA SALATIGA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CILACAP"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK SEMARANG SATU"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK SEMARANG DUA"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK PEKALONGAN"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK KUDUS"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK PURWOKERTO"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK SURAKARTA"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK YOGYAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SIDOARJO BARAT"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK SURABAYA SATU"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK SURABAYA DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN CARUBAN"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK KEDIRI"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK MOJOKERTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SINGOSARI"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK JEMBER"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK  PRATAMA MEULABOH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SABANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PADANG SIDEMPUAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN PERDAGANGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MEDAN PETISAH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN DOLOK SANGGUL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SOLOK"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK PADANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BATAM UTARA"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK PEKANBARU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAKBUMI DAN BANGUNAN BATAM"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN SENGETI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA LUBUK LINGGAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA METRO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG TASIKMALAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TELUK BETUNG"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP KALIMANTAN BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BENGKAYANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SEKADAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PALANGKARAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TAMIYANG LAYANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PULANG PISAU"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK BANJARMASIN"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK BALIKPAPAN"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK SAMARINDA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BIAK"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK MANADO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA LUWUK"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK PALU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MALILI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TAKALAR"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK AMBON"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP BALI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG SINGARAJA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA GIANYAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA RABA BIMA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PRAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MAUMERE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BAA"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP PAPUA DAN MALUKU"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK JAYAPURA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN BINTUHAN"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK PALEMBANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BIRING KASSI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BAJO'E"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PASURUAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MADURA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC POSO"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC LUWUK"
+        },
+        {
+            "nama": "KANTOR PUSAT DIREKTORAT JENDERAL PERBENDAHARAAN"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI DKI JAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA JAKARTA I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA JAKARTA II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA JAKARTA III"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI JAWA BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BANDUNG I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA CIREBON"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BOGOR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TASIKMALAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PURWAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SERANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KARAWANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA GARUT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SUKABUMI"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI JAWA TENGAH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SEMARANG I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SURAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PURWOREJO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PURWOKERTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PEKALONGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PATI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KUDUS"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MAGELANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TEGAL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA CILACAP"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA YOGYAKARTA"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI JAWA TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SURABAYA I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MALANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KEDIRI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MADIUN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BONDOWOSO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PAMEKASAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BOJONEGORO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BANYUWANGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MOJOKERTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PACITAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA MEDAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA PALEMBANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA JAKARTA BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK Madya Jakarta Selatan I"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA JAKARTA TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA JAKARTA UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA BANDUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA SEMARANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA SIDOARJO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA SURABAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA MALANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA BALIKPAPAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA MAKASSAR"
+        },
+        {
+            "nama": "PUSAT INVESTASI PEMERINTAH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA PEKANBARU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA BEKASI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA DENPASAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA TANGERANG"
+        },
+        {
+            "nama": "DIREKTORAT JENDERAL PERIMBANGAN KEUANGAN"
+        },
+        {
+            "nama": "DITJEN KEKAYAAN NEGARA"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA MANADO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BANDUNG II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SEMARANG II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SURABAYA II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MEDAN II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MAKASSAR II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KHUSUS BANDA ACEH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MAMUJU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MUKO MUKO"
+        },
+        {
+            "nama": "PUSAT PEMBINAAN PROFESI KEUANGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN BANTUL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN UTAMA KPU BC TANJUNG PRIOK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN UTAMA KPU BC BATAM"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BANDA ACEH"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC MARUNDA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TOBELO"
+        },
+        {
+            "nama": "LEMBAGA DANA KERJA SAMA PEMBANGUNAN INTERNASIONAL"
+        },
+        {
+            "nama": "DIREKTORAT JENDERAL PENGELOLAAN PEMBIAYAAN DAN RISIKO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANTUL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA GAMBIR DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PENANAMAN MODAL ASING DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PENANAMAN MODAL ASING TIGA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA GRESIK UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG JAKARTA II"
+        },
+        {
+            "nama": "LEMBAGA MANAJEMEN ASET NEGARA"
+        },
+        {
+            "nama": "LEMBAGA NATIONAL SINGLE WINDOW"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG PONTIANAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN KEKAYAAN NEGARA DAN LELANG BEKASI"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN SLEMAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PURWAKARTA"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI RIAU"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI JAMBI"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI BENGKULU"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI KALIMANTAN TENGAH"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI KALIMANTAN TIMUR"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI NUSA TENGGARA BARAT"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI SULAWESI TENGGARA"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI SULAWESI TENGAH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KHUSUS PINJAMAN DAN HIBAH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TIMIKA"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA SEMARANG II"
+        },
+        {
+            "nama": "BALAI DIKLAT KEUANGAN CIMAHI"
+        },
+        {
+            "nama": "DITJEN ANGGARAN"
+        },
+        {
+            "nama": "BALAI LABORATORIUM BEA DAN CUKAI KELAS I JAKARTA"
+        },
+        {
+            "nama": "BALAI LABORATORIUM BEA DAN CUKAI KELAS II SURABAYA"
+        },
+        {
+            "nama": "BALAI LABORATORIUM BEA DAN CUKAI KELAS II MEDAN"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI GORONTALO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BANGKO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SEKAYU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA RANGKASBITUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SUMEDANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SRAGEN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PURWODADI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BANJARNEGARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SIDOARJO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SELONG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MAKALE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SAMPIT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PELAIHARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TUBAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA SANGGAU"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP WAJIB PAJAK BESAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR DUA"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI BANGKA BELITUNG"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI BANTEN"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI DI YOGYAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA PAINAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KUALA TUNGKAL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA LAHAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA LIWA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA CURUP"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TANGERANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KUNINGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KLATEN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA WONOSARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BLITAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TANJUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TANJUNG REDEB"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA NUNUKAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA AMLAPURA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BENTENG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA RAHA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KOLAKA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA KOTAMUBAGU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA BEKASI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA ATAMBUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA MASOHI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN NUNUKAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN SENDAWAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN SANGATTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MARTAPURA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN AMUNTAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN MASAMBA"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN PALU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN KROBOKAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MABA"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAKARTA SELATAN I"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP BANTEN"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAWA TIMUR III"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MEDAN POLONIA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MEDAN KOTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PEKANBARU TAMPAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PALEMBANG ILIR BARAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA CAKUNG DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA SETIABUDI DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KEBAYORAN BARU DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA PANCORAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA PADEMANGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KOJA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA GROGOL PETAMBURAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA TAMANSARI DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA TANAH ABANG DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA GAMBIR TIGA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA MENTENG DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PENANANAM MODAL ASING EMPAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PENANAMAN MODAL ASING LIMA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA DEPOK CIMANGGIS"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CIBITUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANDUNG CICADAS"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SEMARANG TENGAH SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SLEMAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA PABEAN CANTIKAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA SIMOKERTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA SAWAHAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA RUNGKUT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SIDOARJO UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TULUNGAGUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BONTANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANJARBARU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MAKASSAR SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA DENPASAR TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN MEDAN DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SIBOLGA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN GUNUNG SITOLI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BENGKALIS"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TANJUNG BALAI KARIMUN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CURUP"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA PASAR REBO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN JAKARTA SELATAN DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KEBAYORAN BARU TIGA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KALIDERES"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA SUNTER"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN JAKARTA PUSAT DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KOSAMBI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SOREANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA  INDRAMAYU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CIKARANG SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CILEUNGSI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN DEPOK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KARAWANG SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN CIANJUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA DEMAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN SLEMAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA KARANGPILANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA MULYOREJO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BLITAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN BANGIL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SANGGAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MAJENE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MAROS"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TAHUNA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TOLITOLI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA POSO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BADUNG UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TALIWANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA WAINGAPU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SIGLI"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN KABANJAHE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN SIDIKALANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN PENYABUNGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN TARUTUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN PASIR PANGARAYAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN SIAK SRI INDRAPURA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN SAROLANGUN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PAGAR ALAM"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BANDAR JAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN KEPULAUAN SERIBU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN RANGKASBITUNG"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN SERPONG"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN DEPOK"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN BOGOR"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN CIANJUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN BANJAR"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN CIREBON"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN DEMAK"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN BANYUMAS"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN CILACAP"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MUNTILAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN WONOSOBO"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN BANTUL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN MAGETAN"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN MOJOKERTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN NGANJUK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN TRENGGALEK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MEMPAWAH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SAMBAS"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KUALA KURUN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KUALA PEMBUANG"
+        },
+        {
+            "nama": "KANTOR WILAYAH  DJBC ACEH"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC ULEELHEUE"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC ISKANDAR MUDA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SABANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC RANAI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PANGKAL PINANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BEKASI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC ATAMBUA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TUAL"
+        },
+        {
+            "nama": "BALAI DIKLAT KEUANGAN MANADO"
+        },
+        {
+            "nama": "PERWAKILAN DITJEN BEA DAN CUKAI TOKYO"
+        },
+        {
+            "nama": "PERWAKILAN DITJEN BEA DAN CUKAI SEOUL"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA SINGARAJA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BINJAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PALEMBANG SEBERANG ULU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA JATINEGARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA CAKUNG SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA TEBET"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KELAPA GADING"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA PENJARINGAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA PULOGADUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KEMAYORAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA CEMPAKA PUTIH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KEBON JERUK SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SERPONG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANDUNG KAREES"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK  PRATAMA SEMARANG CANDISARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA GENTENG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA WONOCOLO"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK JAKARTA LIMA"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK JAKARTA ENAM"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KEMBANGAN"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK JAKARTA DELAPAN"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK JAKARTA KHUSUS SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANDUNG TEGALEGA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANDUNG BOJONAGARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BANDUNG CIBEUNYING"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SEKUPANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC DENPASAR"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TAPAK TUAN"
+        },
+        {
+            "nama": "BALAI DIKLAT KEUANGAN YOGYAKARTA"
+        },
+        {
+            "nama": "BALAI DIKLAT KEUANGAN MALANG"
+        },
+        {
+            "nama": "BALAI DIKLAT KEUANGAN MEDAN"
+        },
+        {
+            "nama": "BALAI DIKLAT KEUANGAN PALEMBANG"
+        },
+        {
+            "nama": "BALAI DIKLAT KEUANGAN MAKASSAR"
+        },
+        {
+            "nama": "BALAI DIKLAT KEUANGAN BALIKPAPAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SANGATA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA MATRAMAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KRAMAT JATI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA SETIABUDI SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KEBAYORAN BARU SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KEBAYORAN LAMA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA MAMPANG PRAPATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA CILANDAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA PASAR MINGGU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA TANJUNG PRIOK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA MENTENG SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA TANAH ABANG SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA SENEN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA GAMBIR SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA SAWAH BESAR SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA PALMERAH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA TAMANSARI SATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA TAMBORA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA CENGKARENG"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK JAKARTA KHUSUS DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SURABAYA TEGALSARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MEDAN TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PALEMBANG ILIR TIMUR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BUOL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN LABUAN BAJO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PERUSAHAAN MASUK BURSA"
+        },
+        {
+            "nama": "KANTOR PEMERIKSAAN DAN PENYIDIKAN PAJAK SURABAYA TIGA"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA AMBON"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA KUPANG"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA SURABAYA II"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA DENPASAR II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA JAKARTA V"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN TANJUNG BALAI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PADANG ARO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN LUBUK BASUNG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PARIAMAN"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN KAMPAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN TANJUNG BATU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN TELUK KUANTAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN SELAT PANJANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN DURI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN MUARA BULIAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN INDRALAYA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SUNGAI LIAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MENGGALA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN PELABUHAN RATU"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN PURWAKARTA"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN KENDAL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN PURWODADI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN REMBANG"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN PEKALONGAN"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN SURAKARTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN BUMIAYU"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN KEBUMEN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN BANJARNEGARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN UNGARAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN SAMPANG"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN GRESIK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN LUMAJANG"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN BANYUWANGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN NANGAPINOH"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BUNTOK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN RANTAU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TOMOHON"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN BONTOSUNGGU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN SENGKANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN DAN KONSULTASI PERPAJAKAN RUMBIA"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN TABANAN"
+        },
+        {
+            "nama": "KANTOR PENYULUHAN DAN PENGAMATAN POTENSI PERPAJAKAN BIAK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN MUKO MUKO"
+        },
+        {
+            "nama": "PUSAT PENDIDIKAN DAN PELATIHAN KEUANGAN UMUM"
+        },
+        {
+            "nama": "PSSU  GFMRAP"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SARMI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BINTUNI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TEMINABUAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KAIMANA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN NAMLEA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PIRU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BULA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN DOBO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SAUMLAKI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MOJOSARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JOMBANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN LIMBOTO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MARISSA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TILAMUTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN SANANA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TIDORE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN LABUHA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN BANAWA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN PARIGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MUARA DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MARTAPURA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TEBING TINGGI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TUGUMULYO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN TOBOALI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KOBA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MUNTOK"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MANGGAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA ACEH BESAR"
+        },
+        {
+            "nama": "KP2KP CALANG"
+        },
+        {
+            "nama": "KP2KP SUKA MAKMUR"
+        },
+        {
+            "nama": "KP2KP SINABANG"
+        },
+        {
+            "nama": "KP2KP BLANGKEJERAN"
+        },
+        {
+            "nama": "KP2KP TAKENGON"
+        },
+        {
+            "nama": "KP2KP RIMBA RAYA"
+        },
+        {
+            "nama": "KP2KP ACEH SINGKIL"
+        },
+        {
+            "nama": "KP2KP LHOKSUKON"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA MANOKWARI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN, PENYULUHAN, DAN KONSULTASI PERPAJAKAN MAJALENGKA"
+        },
+        {
+            "nama": "KANTOR PENGELOLAAN TIK DAN BMN MEDAN"
+        },
+        {
+            "nama": "KANTOR PENGELOLAAN TIK DAN BMN SEMARANG"
+        },
+        {
+            "nama": "KANTOR PENGELOLAAN TIK DAN BMN SURABAYA"
+        },
+        {
+            "nama": "KANTOR PENGELOLAAN TIK DAN BMN DENPASAR"
+        },
+        {
+            "nama": "KANTOR PENGELOLAAN TIK DAN BMN MAKASSAR"
+        },
+        {
+            "nama": "KANTOR PENGELOLAAN PEMULIHAN DATA"
+        },
+        {
+            "nama": "SEKRETARIAT KOMITE STABILITAS SISTEM KEUANGAN"
+        },
+        {
+            "nama": "LEMBAGA PENGELOLA DANA PENDIDIKAN"
+        },
+        {
+            "nama": "PINTAR DAN CTF-7"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA KELAPA GADING"
+        },
+        {
+            "nama": "KANTOR PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN MAKASSAR"
+        },
+        {
+            "nama": "KANTOR PENGOLAHAN DATA EKSTERNAL"
+        },
+        {
+            "nama": "SEKRETARIAT KOMITE PENGAWAS PERPAJAKAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CIREBON DUA"
+        },
+        {
+            "nama": "KANTOR LAYANAN INFORMASI DAN PENGADUAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA LARANTUKA"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN PROVINSI MALUKU UTARA"
+        },
+        {
+            "nama": "KANWIL DITJEN PERBENDAHARAAN KALIMANTAN UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERBENDAHARAAN NEGARA TANJUNG SELOR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MADYA JAKARTA PUSAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA GAMBIR EMPAT"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA SAWAH BESAR DUA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA MENTENG TIGA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA JAKARTA TANAH ABANG TIGA"
+        },
+        {
+            "nama": "PUSAT LAYANAN PENGADAAN SECARA ELEKTRONIK"
+        },
+        {
+            "nama": "PENGELOLA PORTAL INDONESIA NATIONAL SINGLE WINDOW (PP-INSW)"
+        },
+        {
+            "nama": "PANGKALAN SARANA OPERASI DJBC BATAM"
+        },
+        {
+            "nama": "Kantor Pengawasan dan Pelayanan BC Cikarang"
+        },
+        {
+            "nama": "Kantor Pengawasan dan Pelayanan BC Kuala Namu"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SEMARANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC SIDOARJO"
+        },
+        {
+            "nama": "PANGKALAN SARANA OPERASI DJBC SORONG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KENDAL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN MAJENANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK WAJIB PAJAK BESAR EMPAT"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAKARTA TIMUR"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAKARTA UTARA"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAWA BARAT II"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP DAERAH ISTIMEWA YOGYAKARTA"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAWA TIMUR II"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CIKARANG UTARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SUMBAWA BESAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA TIMIKA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PERPAJAKAN DAN KONSULTASI PERPAJAKAN KOTA PINANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SUBANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BATULICIN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN SANGATTA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN TIMIKA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK MINYAK DAN GAS BUMI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PENANAMAN MODAL ASING ENAM"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP NANGGROE ACEH DARUSSALAM"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP SUMATERA UTARA II"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP SUMATERA BARAT DAN JAMBI"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP BENGKULU DAN LAMPUNG"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP SULAWESI TENGAH"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP KALIMANTAN SELATAN DAN KALIMANTAN TENGAH"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP NUSA TENGGARA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SUBULUSSALAM"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KABANJAHE"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA LUBUK PAKAM"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PANGKALAN KERINCI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KUALA TUNGKAL"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SEKAYU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CILEGON"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA CIAMIS"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA SEMARANG SELATAN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BATANG"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK BUMI DAN BANGUNAN KEBUMEN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BOYOLALI"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA LAMONGAN"
+        },
+        {
+            "nama": "PUSAT PENDIDIKAN DAN PELATIHAN PENGEMBANGAN SUMBER DAYA MANUSIA  BPPK"
+        },
+        {
+            "nama": "PUSAT PENDIDIKAN DAN PELATIHAN KEKAYAAN NEGARA DAN PERIMBANGAN KEUANGAN  BPPK"
+        },
+        {
+            "nama": "BALAI DIKLAT KEUANGAN PEKANBARU"
+        },
+        {
+            "nama": "BALAI DIKLAT KEUANGAN PONTIANAK"
+        },
+        {
+            "nama": "BALAI DIKLAT KEUANGAN DENPASAR"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PONOROGO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KEPANJEN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA PANGKALAN BUN"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA BULUKUMBA"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA KOTAMOBAGU"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PAJAK PRATAMA MERAUKE"
+        },
+        {
+            "nama": "KP-4 MUARA BUNGO"
+        },
+        {
+            "nama": "KANTOR PELAYANAN PENYULUHAN DAN KONSULTASI PERPAJAKAN KARANG BARU"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJP JAWA TENGAH II"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC RIAU DAN SUMBAR"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC BANTEN"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC JAKARTA"
+        },
+        {
+            "nama": "KANTOR WILAYAH DJBC JAWA TIMUR II"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TEMBILAHAN"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BATAM MUKA KUNING"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TAREMPA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC TANGERANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC PURWOKERTO"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BANYUWANGI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KALABAHI"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC JAGOI BABANG"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC BABO"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC KAIMANA"
+        },
+        {
+            "nama": "KANTOR PENGAWASAN DAN PELAYANAN BC NABIRE"
+        },
+        {
+            "nama": "PUSAT PENDIDIKAN DAN PELATIHAN ANGGARAN DAN PERBENDAHARAAN  BPPK"
+        },
+        {
+            "nama": "PUSAT PENDIDIKAN DAN PELATIHAN PAJAK  BPPK"
+        },
+        {
+            "nama": "PUSAT PENDIDIKAN DAN PELATIHAN BEA DAN CUKAI  BPPK"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA BANJARMASIN"
+        },
+        {
+            "nama": "GEDUNG KEUANGAN NEGARA MAMUJU"
+        },
+        {
+            "nama": "KANTOR PUSAT PENGOLAHAN DATA DAN DOKUMEN PERPAJAKAN"
+        },
+        {
+            "nama": "PUSAT SISTEM INFORMASI DAN TEKNOLOGI KEUANGAN"
+        }
+    ]
+}
